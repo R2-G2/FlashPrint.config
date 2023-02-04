@@ -38,6 +38,7 @@
 
 - **cfg/**: my configuration folder
     - **slice_profile/**: Slice Profile Settings
+    - **slice_profile_def/**: Standard Slice Profile Settings
 
 ## Usage
 
